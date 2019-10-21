@@ -92,6 +92,7 @@
 
 ### Tree
  * A *Tree* is an undirected, connected, acyclic graph
+ * In graph theory, a tree is an undirected graph in which any two vertices are connected by exactly one path, or equivalently a       connected acyclic undirected graph. A forest is an undirected graph in which any two vertices are connected by at most one path, or equivalently an acyclic undirected graph, or equivalently a disjoint union of trees.
 
 ### Binary Tree
  * A *Binary Tree* is a tree data structure in which each node has at most two children, which are referred to as
